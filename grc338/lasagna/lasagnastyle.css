@@ -1,0 +1,76 @@
+/*CSS DOCUMENT*/
+
+
+img {
+width: 100%;
+}
+
+div.maincontent{
+    max-width:60em;
+    margin:auto;
+}
+
+div.introimage{
+    width:50%;
+    margin:auto;
+}
+
+header{
+    text-align:center;
+    font-size: 1.2em;
+    font-family:didot;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    font-family:didot;
+    font-style: italic;
+   color: #934C40;
+}
+
+h3{
+    color: #934C40;
+    font-family:didot;
+    text-transform:uppercase;
+    
+    
+}
+
+div.container{
+margin-left:5em;
+margin-right:5em;
+margin-bottom: 5em;
+margin-top:5em;
+}
+
+div.intro p {
+font-family:didot;
+line-height:1.5;
+margin:auto;
+width:50%;
+padding-bottom:2em;
+padding-top:3em;
+}
+
+div.ingredients{
+    font-family:didot;
+    line-height:1.5;
+    float:left;
+    width: 40%;
+    padding-right: 2em;
+    
+}
+div.directions{
+    font-family:didot;
+    line-height:1.5;
+    float:left;
+    width:40%;
+}
+footer{
+    padding-top:2em;
+    float:none;
+    clear:both;
+}
+
+
