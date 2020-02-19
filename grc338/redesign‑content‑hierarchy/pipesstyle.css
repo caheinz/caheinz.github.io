@@ -1,2 +1,12 @@
 /*CSS Document*/
 img {width: 40%; }
+
+.header{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 2em;
+    color: #BED4C7;
+}
+
+a{
+    text-decoration:none;
+}
