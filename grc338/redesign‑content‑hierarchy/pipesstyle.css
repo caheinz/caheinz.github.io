@@ -156,6 +156,7 @@ font-style: normal;
     padding:2em;
     float:left;
     clear:both;
+    /*I know you said no styling in HTML, but the iframe code I copied from google and didn't want to mess it up by removing the style that came with the code*/
 }
 
 .san-clemente-location{
