@@ -1,0 +1,179 @@
+/*CSS Document*/
+.container{
+    margin:2em
+        2.5em
+        5em
+        2.5em;    
+}
+
+.menu li{
+    float:left;
+    padding:0em
+            1em;
+}
+
+.menu{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.2em;
+    float:right;
+    clear:both;
+    padding:0em 0em 2em;
+}
+
+img{
+    width:100%;
+}
+
+.logo{
+    width:17%;
+    padding-bottom: 0em;
+}
+
+div.center {
+  margin:auto;
+    width:80%;
+    text-align: center;
+}
+   
+.center h2{
+    color:#B35E39;
+}
+
+.column {
+  float: left;
+  width: 45%;
+  padding: 1.5em;
+}
+
+/* Clear floats after image containers (code taken from W3 or similar site)*/
+.row::after {
+  content: "";
+  clear: both;
+  display: table;   
+}
+
+a:hover{
+    color:goldenrod;
+}
+
+a{
+    text-decoration:none;
+    color: #BED4C7
+}
+
+ul{
+    list-style-type: none;
+}
+
+.tagline{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size:1.5em;
+    color: #BED4C7;
+    font-style:italic;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+p{
+    font-family: 'Roboto Slab', serif;
+}
+
+h6{
+    padding-top:3em;
+    padding-bottom:4em;
+}
+
+.breakfast-menu h2{
+    font-family: verveine, sans-serif;
+font-style: normal;
+    font-size:3.5em;
+    color:#BED4C7;
+}
+
+.breakfast-menu h1{
+    font-family: verveine, sans-serif;
+font-style: normal;
+    font-size:5em;
+    color:goldenrod;
+    padding:0em;
+}
+
+.breakfast-menu{
+    background-color:floralwhite;
+    padding:4em 0em;
+    width: 70%;
+    margin:auto;
+}
+
+.breakfast-menu p, h3{
+    color:#B35E39;
+}
+
+.catering-menu h2{
+    font-family: verveine, sans-serif;
+font-style: normal;
+    font-size:3.5em;
+    color:#BED4C7 
+}
+
+.catering-menu h1{
+    font-family: verveine, sans-serif;
+font-style: normal;
+    font-size:5em;
+    color:goldenrod;
+    padding:0em;
+}
+
+.catering-menu{
+    background-color:floralwhite;
+    padding:4em 0em;
+    width: 70%;
+    margin:auto; 
+}
+
+.catering-menu p, h3{
+    color:#B35E39;
+}
+
+.no-shirt {
+    margin: auto;
+    text-align: center;
+    background-color: #B35E39;
+    width: 70%;
+    padding: 4em 0em;
+}
+
+.no-shirt h2{
+    font-family: barricada-pro, serif;
+    color: white;
+    font-size: 2em;
+}
+
+.cardiff-location{
+    background-color:floralwhite;
+    padding:2em;
+    float:left;
+    clear:both;
+    /*I know you said no styling in HTML, but the iframe code I copied from google and didn't want to mess it up by removing the style that came with the code*/
+}
+
+.san-clemente-location{
+    background-color:floralwhite;
+    padding:2em;
+}
+
+.fa-facebook{
+    font-size: 3em;
+}
+
+.social-media li{
+    float:left;
+    padding: 1em 2em 3em;  
+}
+
+.social-media{
+    float:left;
+    clear:both;
+}
